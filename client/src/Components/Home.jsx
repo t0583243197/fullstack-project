@@ -1,7 +1,7 @@
 const Home = () => {
     const flowerDesigns = [
         { id: 1, title: 'זרי פרחים', imageUrl: '62e1852731.jpg', description: 'באפשרותך לבחור זר יד / קשת  ועוד' },
-        { id: 2, title: 'עיצובי פרחים', imageUrl: '355.jpg', description: 'באפשרותך להוסיף מתנה לעיצוב' },
+        { id: 2, title:  'עיצובי פרחים', imageUrl: '355.jpg', description: 'באפשרותך להוסיף מתנה לעיצוב' },
 
     ];
 
